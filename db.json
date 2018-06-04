@@ -1,5 +1,6 @@
 {
-	"posts": [{
+	"posts": [
+        {
 			"id": 1,
 			"title": "Post 1"
 		},
@@ -12,7 +13,8 @@
 			"title": "Post 3"
 		}
 	],
-	"comments": [{
+	"comments": [
+        {
 			"id": 1,
 			"body": "some comment",
 			"postId": 1
@@ -26,4 +28,4 @@
 	"profile": {
 		"name": "typicode"
 	}
-}
+}   
