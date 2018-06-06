@@ -13,24 +13,24 @@
         "puk": "12345",
         "barred": "OK",
         "type": "Prepaid",
-        "sucess": "True",
-        "error": "null"
+        "sucess": true,
+        "error": null
       },
       {
         "msisdn": "2",
         "puk": "12345",
         "barred": "NOK",
         "type": "Prepaid",
-        "sucess": "True",
-        "error": "null"
+        "sucess": true,
+        "error": null
       },
       {
         "msisdn": "3",
         "puk": "12345",
         "barred": "NOK",
         "type": "Postpaid",
-        "sucess": "True",
-        "error": "null"
+        "sucess": true,
+        "error": null
       }
     ],
     "profile": {
