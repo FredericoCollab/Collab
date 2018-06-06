@@ -12,7 +12,7 @@
         "msisdn": 11,
         "puk": 12345,
         "barred": "OK",
-        "type": "prepaid",
+        "type": "Prepaid",
         "sucess": "true",
         "error": "null"
       }
