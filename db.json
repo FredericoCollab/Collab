@@ -21,7 +21,7 @@
         "puk": "12345",
         "barred": "NOK",
         "type": "Prepaid",
-        "sucess": true,
+        "success": true,
         "error": null
       },
       {
@@ -29,7 +29,7 @@
         "puk": "12345",
         "barred": "NOK",
         "type": "Postpaid",
-        "sucess": true,
+        "success": true,
         "error": null
       }
     ],
