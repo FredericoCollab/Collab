@@ -6,6 +6,17 @@
         "title": "PT"
       }
     ],
+    "msisdncheck":
+    [
+      {
+        "msisdn": 1,
+        "puk": 12345,
+        "barred": "OK",
+        "type": "prepaid",
+        "sucess": "true",
+        "error": "null"
+      }
+    ],
     "profile": {
       "name": "typicode"
     }
