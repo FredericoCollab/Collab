@@ -3,15 +3,23 @@
     [
       {
         "id": 1,
-        "title": "pt",
-        "msisdn": 1
+        "language": "pt",
+        "msisdn": 1,
+        "success": true,
+        "error": null
       },
       {
         "id": 2,
-        "title": "en",
-        "msisdn": 2
+        "language": "en",
+        "msisdn": 2,
+        "success": true,
+        "error": null
       }
     ],
+    "Get_Uptime":{
+        "success": true,
+        "error": null
+    },
     "Set_Language":
     [
       {
