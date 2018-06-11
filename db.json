@@ -3,7 +3,26 @@
     [
       {
         "id": 1,
-        "title": "PT"
+        "title": "pt"
+      }
+    ],
+    "Set_Language":
+    [
+      {
+        "id": 1,
+        "language": "pt"
+      },
+      {
+        "id": 2,
+        "language": "mz"
+      },
+      {
+        "id": 3,
+        "language": "mx"
+      },
+      {
+        "id": 4,
+        "language": "en"
       }
     ],
     "msisdncheck":
