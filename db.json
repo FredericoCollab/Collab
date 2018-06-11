@@ -11,22 +11,22 @@
       {
         "id": 1,
         "language": "pt",
-        "type": "ivr"
+        "type": "1"
       },
       {
         "id": 2,
         "language": "en",
-        "type": "ivr"
+        "type": "1"
       },
       {
         "id": 3,
         "language": "pt",
-        "type": "infotext"
+        "type": "2"
       },
       {
         "id": 4,
         "language": "en",
-        "type": "infotext"
+        "type": "2"
       }
     ],
     "msisdncheck":
