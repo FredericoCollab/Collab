@@ -10,19 +10,23 @@
     [
       {
         "id": 1,
-        "language": "pt"
+        "language": "pt",
+        "type": "ivr"
       },
       {
         "id": 2,
-        "language": "mz"
+        "language": "en",
+        "type": "ivr"
       },
       {
         "id": 3,
-        "language": "mx"
+        "language": "pt",
+        "type": "infotext"
       },
       {
         "id": 4,
-        "language": "en"
+        "language": "en",
+        "type": "infotext"
       }
     ],
     "msisdncheck":
