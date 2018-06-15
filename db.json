@@ -71,7 +71,8 @@
       }
     ],
     "Get_Voucher_Error":{
-      "code": "Expired PIN"
+      "code": "Expired PIN",
+      "id": 1 
     },
     "profile": {
       "name": "typicode"
