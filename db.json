@@ -70,6 +70,9 @@
         "error": null
       }
     ],
+    "Get_Voucher_Error":{
+      "code": "Expired PIN"
+    },
     "profile": {
       "name": "typicode"
     }
